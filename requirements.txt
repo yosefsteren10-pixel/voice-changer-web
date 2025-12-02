@@ -1,0 +1,5 @@
+streamlit
+spleeter
+librosa
+soundfile
+numpy
